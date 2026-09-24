@@ -1,6 +1,6 @@
 {
     "$schema": "http://json.schemastore.org/template",
-    "author": "Sergei Kamianetskii",
+    "author": "Koryagin Roman",
     "classifications": [
         "Web",
         "Clean Architecture Project",
