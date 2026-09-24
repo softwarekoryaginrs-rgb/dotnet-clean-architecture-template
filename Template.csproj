@@ -12,7 +12,7 @@
     <IncludeBuildOutput>false</IncludeBuildOutput>
     <ContentTargetFolders>content</ContentTargetFolders>
     <NoWarn>$(NoWarn);NU5128</NoWarn>
-    <RepositoryUrl>https://github.com/softwarekoryaginrs-rgb/dotnet-clean-architecture-templatee</RepositoryUrl>
+    <RepositoryUrl>https://github.com/softwarekoryaginrs-rgb/dotnet-clean-architecture-template</RepositoryUrl>
     <PackageLicenseExpression>empty</PackageLicenseExpression>
   </PropertyGroup>
   <ItemGroup>
