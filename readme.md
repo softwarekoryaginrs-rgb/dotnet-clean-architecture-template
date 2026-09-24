@@ -74,7 +74,7 @@ dotnet new install .
 dotnet new Capi -n TestProject
 
 
-dotnet new uninstall "/полный/путь/к/working"
+dotnet new uninstall "/full/path/to/working"
 ```
 
 ## 📋 Creating the project
